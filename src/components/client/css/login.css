@@ -1,0 +1,28 @@
+.login-page{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+ 
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    font-size: 25px;
+    border: .5px solid darkblue;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .login-page *{
+    
+    text-align: center;
+  }
+  .login-page input {
+      font-size: 30px;
+      padding-top: 20px;
+  }
+  .login-page button {
+    margin-top: 20px;
+    margin: auto;
+    font-size: 30px;
+    padding: 20px;
+  }
